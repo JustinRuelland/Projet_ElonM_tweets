@@ -129,3 +129,5 @@ dmypy.json
 .pyre/
 
 DataBase.csv
+DataBase_temporary_creation.csv
+.DS_Store
