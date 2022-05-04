@@ -1,8 +1,7 @@
 # Projet de programmation ENSAE
 
 # Contributeurs 
-Justin Ruelland
-Henri de Tricornot
+Justin Ruelland et Henri de Tricornot
 
 # Requirements
 # PDF explicatif à lire
